@@ -45,3 +45,5 @@ BO_ 512 MSG_10: 8 XXX
 BO_ 513 GAS: 8 XXX
  SG_ IntSig1 : 24|16@1+ (1,0) [0|65535] "" XXX
  SG_ POT_RPM : 40|16@1+ (1,0) [0|8191] "" XXX
+ SG_ NEW_SIGNAL_1 : 16|8@1+ (1,0) [0|255] "" XXX
+ SG_ NEW_SIGNAL_2 : 0|8@1+ (1,0) [0|65535] "" XXX
