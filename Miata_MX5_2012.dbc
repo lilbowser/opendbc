@@ -58,3 +58,11 @@ BO_ 561 NEW_MSG_3: 8 XXX
 BO_ 1056 NEW_MSG_4: 8 XXX
  SG_ NEW_SIGNAL_1 : 0|8@1+ (1,0) [0|255] "" XXX
  SG_ NEW_SIGNAL_2 : 16|16@1+ (1,0) [0|255] "" XXX
+
+BO_ 922 NEW_MSG_5: 8 XXX
+ SG_ PARKING_BRAKE : 3|2@1+ (1,0) [0|3] "" XXX
+
+
+
+
+CM_ SG_ 922 PARKING_BRAKE "Fairly Sure this is right";
